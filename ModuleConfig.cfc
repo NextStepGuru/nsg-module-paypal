@@ -2,9 +2,9 @@ component {
 
 	// Module Properties
 	this.title 				= "nsg-module-paypal";
-	this.author 			= "";
-	this.webURL 			= "";
-	this.description 		= "";
+	this.author 			= "Jeremy R DeYoung";
+	this.webURL 			= "http://www.nextstep.guru";
+	this.description 		= "Paypal Processor for Admin-Order & Cart/Checkout";
 	this.version			= "1.0.0";
 	// If true, looks for views in the parent first, if not found, then in the module. Else vice-versa
 	this.viewParentLookup 	= true;
